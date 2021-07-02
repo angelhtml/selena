@@ -1,0 +1,17 @@
+.profile{
+    width: 15%;
+    border-radius: 3000px 3000px;
+    float: left;
+    overflow: auto;
+    clear: both;
+  }
+  @media screen and (min-width: 530px) {
+    .profile{
+      width: 9%;
+    }
+    }
+    @media screen and (min-width: 820px) {
+      .profile{
+        width: 35%;
+      }
+      }
